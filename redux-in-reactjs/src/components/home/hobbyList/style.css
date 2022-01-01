@@ -1,0 +1,7 @@
+ul li {
+    transition: 0.35 ease;
+}
+
+.active {
+    color: red;
+}
